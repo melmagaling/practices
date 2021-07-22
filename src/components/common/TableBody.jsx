@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import _ from 'lodash';
-import { Route, Link } from 'react-router-dom';
-import MovieDetails from '../movieDetails';
 
 class TableBody extends Component {
   renderCell = (item, column) => {
