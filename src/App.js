@@ -15,8 +15,6 @@ import ProtectedRoute from './components/common/protectedRoute';
 import "./index.css";
 import 'react-toastify/dist/ReactToastify.css';
 
-
-
 class App extends Component {
   state = {};
 
